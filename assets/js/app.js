@@ -156,15 +156,15 @@ let footer = $(`
     
 
     <div class="rounded-social-buttons tag">
-    
-    <a class="socialicon linkedin" href="https://www.linkedin.com/in/ch-subramanyam-97b996181/" target="_blank" rel="author">
-        <svg class="linkedin-icon" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
+    <a class="social-button linkedin" href="https://www.linkedin.com/in/ch-subramanyam-97b996181/" target="_blank" >
+        <!-- svg code for linkedin icon -->
+          <svg class="linkedin-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8"
+            stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
             <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
             <rect x="2" y="9" width="4" height="12"></rect>
             <circle cx="4" cy="4" r="2"></circle>
-        </svg>
+          </svg>
     </a>
-
     <a class="social-button github" href="https://github.com/SubramanyamChalla24" target="_blank">
     <!-- SVG code for Github icon -->
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
