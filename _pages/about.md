@@ -26,4 +26,4 @@ My research has been focused on optimizing machine learning in distributed syste
 
 Currently, I'm working on novel projects in autonomous vehicle technology and persuasive ad generation using reinforcement learning and advanced AI models as part of course projects. 
 
-Resume here [link]()
+Resume here [link](https://drive.google.com/file/d/1Ehksmgs5BbJeGmrPTbW2Z2Q0lCLlNdLw/view?usp=drive_link)
