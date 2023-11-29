@@ -2,96 +2,76 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Subramanyam Challa
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's
+      institution: Arizona State University
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Artificial Intelligence, Planning and Learning Methods in AI, Perceptual Reasoning and Symbol Grounding
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Integrated Master's of Technology
+      institution: University of Hyderabad
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI Software Engineer
+      institution: Infiheal Healthcare Limited
+      year: Feb 2022 - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
+        - Development of ML models to analyse user emotion and intent in a mental health chat-bot
+        - Collaborated with cross-functional teams using Python and BeautifulSoup to pioneer advanced web scraping methods for Reddit, Twitter, Facebook, and YouTube, culminating in a dataset of over 150,000 samples.
+        - Optimized machine learning model training by integrating LSTM and RNN architectures, resulting in an impressive 60% data classification accuracy and significantly reducing manual labeling efforts for data preparation.
+        - Implemented NLU techniques with BERT, RoBERTa, and BigBird models to develop models for mental health chat-bot and deploying them on AWS, resulting in a notable accuracy boost from 60% to 90% for intent classification.
+        - Demonstrated expertise in developing Python code-bases with a focus on reproducibility and ease-of-use for newcomers,accompanied by comprehensive documentation, resulting in a 25% reduction in development time
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/srbhr/Resume-Matcher">Resume-Matcher</a>
+      year: 2023
+      description: Find the matching keywords, improve the readability and gain deep insights into your resume.
+    - title: <a href="https://github.com/swirlai/swirl-search">Swirl</a>
+      year: 2023
+      description: Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Natural Language Processing
+        - Explainable AI
 
 - title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  type: nested_list
+  contents: 
+    - title: Interests
+      items:
+        - Cognitive Psychology
+        - Neurological Mechanics
+        - Human Reasoning
+    - title: Hobbies
+      items:
+        - Exploring Reddit
+        - Automating day-to-day tasks
+        - Open Source Projects Contribution

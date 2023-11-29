@@ -1,13 +1,13 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false
 nav_order: 7
 dropdown: true
 children:
     - title: publications
-      permalink: /publications/
+      permalink: 
     - title: divider
     - title: projects
-      permalink: /projects/
+      permalink: 
 ---
