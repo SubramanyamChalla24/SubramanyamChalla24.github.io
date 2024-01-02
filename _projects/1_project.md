@@ -8,8 +8,6 @@ category: Machine Learning
 related_publications:
 ---
 
-# **Explainable NLP**
-
 ## 🛠️ **Techstack Used**
 
 - **Programming Language and Core Frameworks**: Python, PyTorch

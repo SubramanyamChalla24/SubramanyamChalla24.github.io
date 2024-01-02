@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Connectthru
-description: A platform to engage and explore your ideas
+description:
 img: /assets/img/sih_logo.jpg
 importance: 2
 category: Web Development
