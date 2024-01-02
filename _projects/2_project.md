@@ -1,12 +1,41 @@
 ---
 layout: page
-title: Connectthru - A platform to engage and explore your ideas
-description: 
+title: Connectthru
+description: A platform to engage and explore your ideas
 img: /assets/img/sih_logo.jpg
 importance: 2
 category: Web Development
-related_publications: 
+related_publications:
 ---
 
-- Qualified for Regionals in the Smart India Hackathon 2022 and spearheaded the development of a collaborative platform connecting students and professors from diverse educational institutions, enhancing communication and facilitating knowledge exchange and networking opportunities.
-- Developed robust protocols to prevent spam and maintain a secure environment within the collaborative platform, safeguarding the quality and authenticity of interactions between the users.
+# Collaborative Academic Network Platform
+
+## 🛠️ Tech Stack Used
+
+- **Core Framework and Language**: Django, Python
+- **Database Management**: PostgreSQL
+- **Frontend Development**: HTML, JavaScript, CSS, Bootstrap
+
+---
+
+## 📖 Introduction
+
+- **Concept**: A platform to bridge the gap between students and professors across various educational institutions.
+- **Purpose**: Enhance communication, facilitate knowledge exchange, and provide networking opportunities.
+- **Features**: Connection for projects, research work, and academic collaboration.
+
+## 🔍 Methodology
+
+- **Development Framework**: Utilized Django for robust and efficient web development.
+- **Team Dynamics**: Functioned as the team lead, guiding project development and collaboration.
+- **Security Measures**: Implemented strict protocols to prevent spam and maintain a secure, high-quality environment for user interactions.
+
+## 📈 Results
+
+- **Achievement**: Successfully qualified for Regionals in the Smart India Hackathon 2022.
+- **Impact**: Spearheaded the creation of a platform fostering academic collaboration and communication.
+- **User Engagement**: Attracted significant interest from academic communities, validating the platform's utility and appeal.
+
+<!-- ## 🖼️ Visualizations -->
+
+---
