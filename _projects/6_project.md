@@ -7,8 +7,6 @@ importance:
 category: Course Projects
 ---
 
-# End-to-End Pipeline for Persuasive Ad Generation
-
 ## 🛠️ Project Overview
 
 - **Goal**: Develop a comprehensive system for creating persuasive advertisements working in a group.

@@ -8,8 +8,6 @@ importance: 3
 category: Course Projects
 ---
 
-# Autonomous Vehicle Object Detection Using Reinforcement Learning
-
 ## 🛠️ Tech Stack Used
 
 - **Core Programming Language**: Python

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connectthru
+title: Connectthru - A Collaborative Academic Network Platform
 description:
 img: /assets/img/sih_logo.jpg
 importance: 2
@@ -8,7 +8,6 @@ category: Web Development
 related_publications:
 ---
 
-# Collaborative Academic Network Platform
 
 ## 🛠️ Tech Stack Used
 
