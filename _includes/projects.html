@@ -1,36 +1,42 @@
 <!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  {% if project.redirect -%}
-  <a href="{{ project.redirect }}">
-    {%- else -%}
-    <a href="{{ project.url | relative_url }}">
-      {%- endif %}
-      <div class="card hoverable">
-        {%- if project.img %}
-        {%- include figure.html
-          path=project.img
-          alt="project thumbnail" -%}
-        {%- endif %}
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
-          <p class="card-text">{{ project.description }}</p>
-          <div class="row ml-1 mr-1 p-0">
-            {%- if project.github -%}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
-              </div>
-              {%- if project.github_stars -%}
-              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                <i class="fas fa-star"></i>
-                <span id="{{ project.github_stars }}-stars"></span>
-              </span>
-              {%- endif %}
-            </div>
-            {%- endif %}
-          </div>
-        </div>
-      </div>
-    </a>
+<div class="project-item">
+  <a href="{{ project.redirect | default: project.url | relative_url }}" class="project-link">
+    <h3 class="project-title">{{ project.title }}</h3>
+    <p class="project-description">{{ project.description }}</p>
+  </a>
 </div>
+
+<style>
+/* Project Item Styling */
+.project-item {
+  background: #444;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: background 0.3s ease-in-out;
+}
+
+.project-link {
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.project-item:hover {
+  background: #555;
+}
+
+.project-title {
+  font-size: 1.2rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+.project-description {
+  font-size: 1rem;
+  color: #aaa;
+  margin-top: 5px;
+}
+</style>

@@ -4,7 +4,8 @@ title: AdPrompter - Reinforcement Learning for Persuasive Ads
 description:
 img: /assets/img/kfc_img.jpeg
 importance:
-category: Course Projects
+category: Academic Projects
+subcategory: Course Project
 ---
 
 ## 🛠️ Project Overview
@@ -58,10 +59,14 @@ category: Course Projects
 - **Image Generation**: Produced over 5,000 optimized images for ad campaigns.
 - **Reinforcement Learning Efficiency**: Improved strategy selection accuracy by 40%.
 
-<!-- ## 🖼️ Visualizations
+[//]: # (<!-- ## 🖼️ Visualizations)
 
-- **Ad Samples**: Showcase the range of ads created for the target companies.
-- **Performance Metrics**: Graphs and charts depicting the success rates of various strategies and models.
-- **Bias Analysis**: Visual representation of bias detection results.
+[//]: # ()
+[//]: # (- **Ad Samples**: Showcase the range of ads created for the target companies.)
 
---- -->
+[//]: # (- **Performance Metrics**: Graphs and charts depicting the success rates of various strategies and models.)
+
+[//]: # (- **Bias Analysis**: Visual representation of bias detection results.)
+
+[//]: # ()
+[//]: # (--- -->)

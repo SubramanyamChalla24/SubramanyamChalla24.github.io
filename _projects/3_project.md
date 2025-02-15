@@ -5,7 +5,8 @@ description:
 img: /assets/img/object_detection.jpg
 redirect:
 importance: 3
-category: Course Projects
+category: Academic Projects
+subcategory: Course Project
 ---
 
 ## 🛠️ Tech Stack Used
@@ -68,11 +69,16 @@ category: Course Projects
 
 ---
 
-<!-- ## 🖼️ Visualizations
+[//]: # (<!-- ## 🖼️ Visualizations)
 
-- **Dataset Samples**: Showcase the variety and complexity of the dataset images, including icon-based and real-world scenarios.
-- **Model Performance Charts**: Graphs depicting the accuracy and efficiency of the Perception and Reasoning Models under various conditions.
-- **Comparative Analysis**: Visual comparisons between standard object detection models and the newly developed model, emphasizing improvements.
+[//]: # ()
+[//]: # (- **Dataset Samples**: Showcase the variety and complexity of the dataset images, including icon-based and real-world scenarios.)
 
----
--->
+[//]: # (- **Model Performance Charts**: Graphs depicting the accuracy and efficiency of the Perception and Reasoning Models under various conditions.)
+
+[//]: # (- **Comparative Analysis**: Visual comparisons between standard object detection models and the newly developed model, emphasizing improvements.)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # (-->)

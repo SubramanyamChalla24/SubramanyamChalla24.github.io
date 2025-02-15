@@ -4,7 +4,8 @@ title: Connectthru - A Collaborative Academic Network Platform
 description:
 img: /assets/img/sih_logo.jpg
 importance: 2
-category: Web Development
+category: Software Engineering
+subcategory: Full Stack
 related_publications:
 ---
 
@@ -35,6 +36,7 @@ related_publications:
 - **Impact**: Spearheaded the creation of a platform fostering academic collaboration and communication.
 - **User Engagement**: Attracted significant interest from academic communities, validating the platform's utility and appeal.
 
-<!-- ## 🖼️ Visualizations -->
+[//]: # (<!-- ## 🖼️ Visualizations -->)
 
----
+[//]: # ()
+[//]: # (---)

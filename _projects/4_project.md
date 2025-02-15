@@ -4,7 +4,8 @@ title: Advanced Reddit Analytics From Data Extraction to User Behavior Insights
 description: 
 img: /assets/img/reddit_logo.png
 importance: 
-category: Machine Learning
+category: Artificial Intelligence
+subcategory: Data Science
 ---
 
 - Extracted and processed a dataset of over 1 million Reddit comments and posts using PySpark, utilizing advanced anomaly detection techniques to eliminate extremist comments and enhance data integrity, resulting in a refined dataset with a 90.5% cleanliness ratio.

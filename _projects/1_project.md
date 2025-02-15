@@ -4,7 +4,8 @@ title: Explainable NLP
 description:
 img: /assets/img/transformers_interpret.jpg
 importance: 1
-category: Machine Learning
+category: Artificial Intelligence
+subcategory: Machine Learning
 related_publications:
 ---
 
@@ -38,10 +39,13 @@ related_publications:
 - **In-depth Analysis:** Utilized analytical tools for enhanced understanding of model behaviors.
 - **Accuracy Improvement:** Fine-tuning led to a 10% boost, revealing critical symptom-disease correlations.
 
-## 🖼️ **Visualizations**
+[//]: # (## 🖼️ **Visualizations**)
 
-_Visual representations of the project:_
+[//]: # ()
+[//]: # (_Visual representations of the project:_)
 
-![Insightful Visualization](/assets/img/explainable_nlp_image1.jpeg)
+[//]: # ()
+[//]: # (![Insightful Visualization]&#40;/assets/img/explainable_nlp_image1.jpeg&#41;)
 
----
+[//]: # ()
+[//]: # (---)
