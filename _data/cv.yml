@@ -11,67 +11,84 @@
       institution: Arizona State University
       year: 2023
       description:
-        - Artificial Intelligence, Planning and Learning Methods in AI, Perceptual Reasoning and Symbol Grounding
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - title: Integrated Master's of Technology
       institution: University of Hyderabad
       year: 2018
-      description:
+      description: <a href="https://subramanyamchalla24.github.io/projects/distribuetd_clusters/">Distributed and Lightweight Machine Learning on Clusters</a>
 
 - title: Experience
   type: time_table
   contents:
-    - title: AI Software Engineer
-      institution: Infiheal Healthcare Limited
-      year: Feb 2022 - Aug 2022
+    - title: Machine Learning Engineer
+      institution: <a href="https://infiheal.com/">Infiheal</a>
+      year: May 2022 - May 2023
       description:
-        - Development of ML models to analyse user emotion and intent in a mental health chat-bot
-        - Collaborated with cross-functional teams using Python and BeautifulSoup to pioneer advanced web scraping methods for Reddit, Twitter, Facebook, and YouTube, culminating in a dataset of over 150,000 samples.
-        - Optimized machine learning model training by integrating LSTM and RNN architectures, resulting in an impressive 60% data classification accuracy and significantly reducing manual labeling efforts for data preparation.
-        - Implemented NLU techniques with BERT, RoBERTa, and BigBird models to develop models for mental health chat-bot and deploying them on AWS, resulting in a notable accuracy boost from 60% to 90% for intent classification.
-        - Demonstrated expertise in developing Python code-bases with a focus on reproducibility and ease-of-use for newcomers,accompanied by comprehensive documentation, resulting in a 25% reduction in development time
-- title: Open Source Projects
+        - <a href="https://subramanyamchalla24.github.io/projects/infiheal_chatbot/">Infiheal Chatbot</a>
+    - title: Software Engineer
+      institution: Siddhi Systems Inc
+      year: April 2020 - April 2022
+      description:
+        - <a href="https://subramanyamchalla24.github.io/projects/scalable_app_dev/">Scalable Enterprise Application Development </a>
+        - <a href="https://subramanyamchalla24.github.io/projects/scalable_data_engineering/">Scalable Data Engineering for Big Data Processing </a>
+        - <a href="https://subramanyamchalla24.github.io/projects/distributed_ml/">Distributed Machine Learning for Large-Scale Model Training </a>
+
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/srbhr/Resume-Matcher">Resume-Matcher</a>
-      year: 2023
-      description: Find the matching keywords, improve the readability and gain deep insights into your resume.
-    - title: <a href="https://github.com/swirlai/swirl-search">Swirl</a>
-      year: 2023
-      description: Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
-- title: Academic Interests
+    - title: <a href="https://subramanyamchalla24.github.io/projects/automated_pipeline/">Automated Data Processing and LLM-Driven Insight Generation Pipeline</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/finetune_llm/">Fine-Tuning Large Multimodal Models for Enhanced Reasoning</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/resume_matcher/">Resume Matcher</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/resume_scanner/">Automated Resume Scanner</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/connectthru/">ConnectThru - A Collaborative Academic Network Platform</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/explainable_nlp/">Explainable NLP</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/adprompter/">AdPrompter - An AI-Driven Advertisement Recommendation System</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/novel_autonomous_reasoning/"> Novel Object Detection in Autonomous Vehicles using Reasoning by Elimination</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/reddit_data_analysis/">Reddit Data Analysis</a>
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Machine Learning
-      items: 
-        - Natural Language Processing
-        - Explainable AI
-
-- title: Other Interests
-  type: nested_list
-  contents: 
-    - title: Interests
+    - title: Languages
       items:
-        - Cognitive Psychology
-        - Neurological Mechanics
-        - Human Reasoning
-    - title: Hobbies
+        - Python
+        - Java
+        - C
+        - C++
+        - SQL
+    - title: Web Development
       items:
-        - Exploring Reddit
-        - Automating day-to-day tasks
-        - Open Source Projects Contribution
+        - HTML
+        - CSS
+        - JavaScript
+        - Bootstrap
+        - Django
+        - PostgreSQL
+        - MySQL
+    - title: Big Data Technologies
+      items:
+        - Apache Kafka
+        - Hadoop
+        - Spark
+        - Flink
+        - Hive
+    - title: Machine Learning Tools
+      items:
+        - Pytorch
+        - OpenCV
+        - Scikit-Learn
+        - Huggingface
+        - Deepspeed
+        - Dask
+        - LLM
+    - title: Data Science Libraries
+      items:
+        - NumPy
+        - Pandas
+        - Matplotlib
+        - Seaborn
+    - title: Cloud DevOps
+      items:
+        - AWS Lambda
+        - EC2
+        - S3
+        - RDS
+        - Docker
