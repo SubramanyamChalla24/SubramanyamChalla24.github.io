@@ -24,3 +24,4 @@ In my professional journey, I have combined my expertise in AI, machine learning
 
 Additionally, I worked at Siddhi Systems Inc.(Remote),Texas,USA, contributing to various projects ranging from software development to machine learning, cloud data processing, and data science. My work spanned distributed computing, large-scale data engineering, and model optimization, leading to enhanced system performance and streamlined workflows.
 
+Resume link: [Resume](https://drive.google.com/file/d/1lXaqZClPTUEkBmQitlgFihHc2btWYwvs/view?usp=sharing)
