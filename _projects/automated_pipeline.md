@@ -43,13 +43,3 @@ related_publications:
 - **Scalability**: Designed a system capable of handling multiple concurrent user uploads and processing requests.  
 - **Enhanced Data Integrity**: Metadata-driven schema validation ensured reliability and consistency.  
 
-[//]: # (## 🖼️ **Visualizations**  )
-
-[//]: # ()
-[//]: # (_Visual representations of the project:_  )
-
-[//]: # ()
-[//]: # (![Automated Data Pipeline]&#40;/assets/img/data_pipeline_visual.jpeg&#41;  )
-
-[//]: # ()
-[//]: # (---)

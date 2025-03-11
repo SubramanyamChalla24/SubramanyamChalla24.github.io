@@ -29,14 +29,14 @@
       year: April 2020 - April 2022
       description:
         - <a href="https://subramanyamchalla24.github.io/projects/scalable_app_dev/">Scalable Enterprise Application Development </a>
-        - <a href="https://subramanyamchalla24.github.io/projects/scalable_data_engineering/">Scalable Data Engineering for Big Data Processing </a>
-        - <a href="https://subramanyamchalla24.github.io/projects/distributed_ml/">Distributed Machine Learning for Large-Scale Model Training </a>
+        - <a href="https://subramanyamchalla24.github.io/projects/scalable_data_engineering/">Scalable MLOps Pipeline for Big Data Processing   </a>
+        - <a href="https://subramanyamchalla24.github.io/projects/distributed_ml/">Distributed Deep Learning & Model Training on GCP </a>
 
 - title: Projects
   type: time_table
   contents:
     - title: <a href="https://subramanyamchalla24.github.io/projects/automated_pipeline/">Automated Data Processing and LLM-Driven Insight Generation Pipeline</a>
-    - title: <a href="https://subramanyamchalla24.github.io/projects/finetune_llm/">Fine-Tuning Large Multimodal Models for Enhanced Reasoning</a>
+    - title: <a href="https://subramanyamchalla24.github.io/projects/finetune_llm/">Optimizing Multimodal LLMs with RAG and MoE for Efficient Inference</a>
     - title: <a href="https://subramanyamchalla24.github.io/projects/resume_matcher/">Resume Matcher</a>
     - title: <a href="https://subramanyamchalla24.github.io/projects/resume_scanner/">Automated Resume Scanner</a>
     - title: <a href="https://subramanyamchalla24.github.io/projects/connectthru/">ConnectThru - A Collaborative Academic Network Platform</a>

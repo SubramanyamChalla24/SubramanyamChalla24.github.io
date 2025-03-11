@@ -1,10 +1,10 @@
 ---
 layout: page  
-title: Scalable Data Engineering for Big Data Processing  
-description:  
-img: /assets/img/big_data_engineering.jpg  
+title: Scalable MLOps Pipeline for Big Data Processing  
+description: Optimizing big data workflows with distributed computing, containerized ML pipelines, and scalable storage solutions.  
+img: /assets/img/mlops_pipeline.jpg  
 importance: 1  
-category: Work Projects
+category: Work Projects  
 subcategory: Enterprise Solutions
 related_publications:  
 
@@ -12,43 +12,46 @@ related_publications:
 
 ## 🛠️ **Techstack Used**  
 
-- **Big Data Frameworks**: Apache Hadoop, Spark, PySpark  
-- **Databases**: PostgreSQL  
-- **Containerization & Orchestration**: Docker  
-- **Cloud Services**: Google Cloud Platform (GCP)  
-- **Development and Version Control Tools**: Git, GitHub  
+- **Big Data Processing**: Apache Spark, Hadoop, PySpark  
+- **Database & Storage**: PostgreSQL, HDFS  
+- **Machine Learning & MLOps**: MLflow, Apache Airflow  
+- **Containerization & Deployment**: Docker, Kubernetes  
+- **Cloud Services**: AWS EC2, S3, RDS  
+- **Programming Languages**: Python, SQL  
 
 ---
 
 ## 📖 **Introduction**  
 
-- **Optimizing ETL Pipelines**: Designed a distributed ETL pipeline reducing batch processing time by 40% for 20TB+ datasets.  
-- **Enhanced Data Storage & Querying**: Built a PostgreSQL-based data warehouse with optimized indexing and partitioning, improving query performance by 35%.  
-- **Scalable Deployment**: Containerized data workflows with Docker, reducing infrastructure costs by 25%.  
+- **Distributed Data Processing**: Engineered a **high-performance ETL pipeline** using **Apache Spark, Hadoop, and PySpark**, accelerating batch processing by **40% for 20TB+ datasets** to support scalable ML workloads.  
+- **Optimized ML Model Storage**: Designed a **high-performance data warehouse** in **PostgreSQL**, improving **query execution speed by 35%** for ML model feature storage through **advanced indexing, partitioning, and parallelized queries**.  
+
+---
 
 ## 📊 **Dataset**  
 
-- **Large-Scale Structured & Semi-Structured Data**: Processed across distributed storage and compute environments.  
-- **Optimized Storage Strategy**: Leveraged indexing and partitioning techniques to enhance performance.  
+- **Large-Scale ML Feature Store**: Processed **structured and semi-structured data** from diverse sources for ML model training.  
+- **Optimized Storage & Retrieval**: Implemented **PostgreSQL and HDFS** to efficiently store and retrieve **high-volume data** for ML pipelines.  
+
+---
 
 ## 🔍 **Methodology**  
 
-- **Distributed Data Processing**: Architected Hadoop and Spark-based ETL pipelines for high-performance data workflows.  
-- **Cloud & Containerization**: Deployed optimized workflows using Docker for seamless execution across environments.  
+- **Scalable ETL Pipeline**: Built a **distributed data pipeline** using **Apache Spark & PySpark**, enabling **fault-tolerant and high-speed data transformations**.  
+- **MLOps Workflow Automation**: Integrated **MLflow and Apache Airflow** for **experiment tracking, model versioning, and automated ML pipeline execution**.  
+- **Containerized ML Workflows**: Deployed **Dockerized ML processing units** on **Kubernetes**, enabling **seamless multi-environment deployment** and **reducing infrastructure costs by 25%**.  
+- **Cloud-Optimized Processing**: Leveraged **AWS EC2, S3, and RDS** for **distributed model training and scalable storage**.  
+
+---
 
 ## 📈 **Results**  
 
-- **Performance Gains**: Achieved a 40% reduction in batch processing time.  
-- **Infrastructure Efficiency**: Reduced deployment costs by 25% through containerized execution.  
-- **Scalability**: Enabled efficient querying and analysis of 20TB+ datasets.  
+- **Accelerated Data Processing**: Achieved **40% faster batch processing** for **large-scale datasets (20TB+).**  
+- **Enhanced Query Performance**: Optimized data retrieval and model training pipelines, improving query speeds by **35%**.  
+- **Cost-Efficient Deployment**: Reduced **infrastructure costs by 25%** using **containerized workflows (Docker & Kubernetes).**  
+- **MLOps Automation**: Ensured **scalability and reproducibility** in ML pipeline execution via **MLflow & Airflow integration**.  
 
-[//]: # (## 🖼️ **Visualizations**  )
+---
 
-[//]: # ()
-[//]: # (_Visual representations of the project:_  )
-
-[//]: # ()
-[//]: # (![Big Data ETL Pipeline]&#40;/assets/img/big_data_engineering_visual.jpeg&#41;  )
-
-[//]: # ()
-[//]: # (---)
+This project focuses on **scalable MLOps solutions**, leveraging **big data processing, distributed training, and cloud deployment** to **streamline machine learning workflows in enterprise environments**.
+``

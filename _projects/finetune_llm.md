@@ -1,54 +1,57 @@
 ---
 layout: page  
-title: Fine-Tuning Large Multimodal Models for Enhanced Reasoning  
-description:  
+title: Optimizing Multimodal LLMs with RAG and MoE for Efficient Inference  
+description: Enhancing multimodal large language model performance through retrieval-augmented generation and expert-based inference.  
 img: /assets/img/multimodal_llm.jpg  
 importance: 1  
-category: Artificial Intelligence
-subcategory: Generative Models
+category: Machine Learning  
+subcategory: Large Language Models  
 related_publications:  
+
 ---
 
 ## 🛠️ **Techstack Used**  
 
-- **Deep Learning Frameworks**: PyTorch, TensorFlow  
-- **Model Optimization**: LoRA (Low-Rank Adaptation), QLoRA  
-- **Distributed Training**: PyTorch FSDP (Fully Sharded Data Parallel), DeepSpeed  
-- **Hardware Acceleration**: Multi-GPU, CUDA, NVIDIA A100/H100  
-- **Data Processing**: NumPy, Pandas, OpenCV  
-- **Development and Version Control Tools**: Git, GitHub  
+- **Large Language Models (LLMs)**: OpenAI GPT, LLaMA, Mistral  
+- **Model Optimization**: LoRA, QLoRA, Mixture of Experts (MoE), DeepSpeed, PyTorch FSDP  
+- **Knowledge Retrieval**: Retrieval-Augmented Generation (RAG), FAISS  
+- **Computing & Distributed Training**: Multi-GPU, PyTorch, NVIDIA CUDA  
+- **Data Processing**: Hugging Face Transformers, NumPy, Pandas  
+- **Cloud Services**: AWS S3, Lambda, EC2  
 
 ---
 
 ## 📖 **Introduction**  
 
-- **Enhancing Multimodal Reasoning**: Fine-tuned a Large Language Model (LLM) with text and image data to improve logical reasoning and response accuracy.  
-- **Efficient Training**: Optimized training for large-scale models with over 13B parameters using LoRA and QLoRA.  
+- **Multimodal Model Optimization**: Designed a fine-tuning framework for a **13B+ parameter multimodal LLM** (text + images) to enhance reasoning, retrieval, and inference efficiency.  
+- **Efficient Memory Utilization**: Leveraged **LoRA and QLoRA** techniques to **optimize GPU memory consumption** while maintaining high model fidelity.  
+- **Advanced Inference Strategies**: Integrated **Mixture of Experts (MoE) and Retrieval-Augmented Generation (RAG)** to dynamically allocate computing resources and retrieve relevant external knowledge.  
+
+---
 
 ## 📊 **Dataset**  
 
-- **Multimodal Dataset**: Comprising text and image pairs to improve reasoning capabilities.  
-- **Preprocessing**: Standardized and cleaned for effective model training.  
+- **Multimodal Inputs**: Text and image datasets sourced from **benchmark datasets (LAION, MS-COCO, OpenImages)** for real-world context modeling.  
+- **External Knowledge Sources**: RAG framework integrated with **FAISS-based vector retrieval** to enhance factual accuracy.  
+
+---
 
 ## 🔍 **Methodology**  
 
-- **Fine-Tuning Techniques**: Implemented LoRA and QLoRA for efficient adaptation.  
-- **Multi-GPU Acceleration**: Utilized PyTorch FSDP and DeepSpeed to reduce fine-tuning time by 45%.  
-- **Scalability**: Ensured seamless handling of large-scale models across multiple GPUs.  
+- **Fine-Tuning Strategy**: Applied **LoRA and QLoRA** to efficiently adapt the model to multimodal inputs with minimal computational overhead.  
+- **Retrieval-Augmented Generation (RAG)**: Implemented **FAISS-based vector retrieval** to provide real-time external knowledge, reducing hallucination rates.  
+- **Mixture of Experts (MoE)**: Applied **MoE architectures** to selectively activate model components, **reducing inference latency** while maintaining high response quality.  
+- **Distributed Training**: Used **DeepSpeed and PyTorch FSDP** to enable **multi-GPU training**, optimizing memory efficiency across clusters.  
+
+---
 
 ## 📈 **Results**  
 
-- **Improved Reasoning Accuracy**: Achieved a 30% boost in response accuracy.  
-- **Efficient Training**: Reduced fine-tuning time by 45% while maintaining model performance.  
-- **Optimized Memory Usage**: Leveraged efficient parameter tuning techniques for large models.  
+- **Improved Model Efficiency**: Fine-tuning reduced **GPU memory usage** while maintaining performance on multimodal benchmarks.  
+- **Enhanced Response Accuracy**: RAG integration led to a **significant reduction in hallucinations** and improved factual consistency.  
+- **Scalable Inference**: MoE-based model partitioning optimized compute resource allocation, resulting in **faster response times**.  
+- **Cloud Integration**: Hosted models on **AWS EC2 instances**, ensuring **scalable and cost-efficient deployment**.  
 
-[//]: # (## 🖼️ **Visualizations**  )
+---
 
-[//]: # ()
-[//]: # (_Visual representations of the project:_  )
-
-[//]: # ()
-[//]: # (![Multimodal Model Tuning]&#40;/assets/img/multimodal_llm_visual.jpeg&#41;  )
-
-[//]: # ()
-[//]: # (---)
+This project advances **multimodal large language models** by integrating **RAG for knowledge retrieval** and **MoE for efficient inference**, optimizing performance in real-world applications such as **autonomous AI agents, research assistants, and multimodal dialogue systems**.
